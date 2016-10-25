@@ -1,11 +1,11 @@
 # phase-2-goals
 topics to review 
 ##CRUD
-  * BASIC REST
   * CREATE ROUTE
-  *READ ROUTE
-  *UPDATE ROUTE
-  *DELETE ROUTE
+    * [link](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge "basic post route with one param")
+  * READ ROUTE
+  * UPDATE ROUTE
+  * DELETE ROUTE
   ###challenges
    * A [link](http://example.com "Title"). 
 
