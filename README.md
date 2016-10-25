@@ -1,7 +1,7 @@
 # phase-2-goals
 topics to review 
 ##CRUD
-  ### CREATE ROUTE
+   -CREATE ROUTE
     * [BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM ](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
   ### READ ROUTE
   ### UPDATE ROUTE
@@ -30,7 +30,7 @@ topics to review
 
 
 ####APIs
- - [GITHUB (Net::HTTP](https://github.com/sf-coyotes-2016/github-api-challenge)
+ - [GITHUB (Net::HTTP)](https://github.com/sf-coyotes-2016/github-api-challenge)
  - postman 
  -curl 
  - gems 
