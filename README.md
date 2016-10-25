@@ -1,14 +1,17 @@
 # phase-2-goals
 topics to review 
-###CRUD
-####CREATE ROUTE
+### CRUD
+#### CREATE ROUTE
   * [BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
   *
-####READ ROUTE
+#### READ ROUTE
  
-####UPDATE ROUTE
+#### UPDATE ROUTE
 
-####DELETE ROUTE
+#### DELETE ROUTE
+
+### EXTRA RESOURCES
+  * [Intro to Sinatra Video](https://identity.devbootcamp.com/login?service=https%3A%2F%2Ftalks.devbootcamp.com%2Fintro-to-sinatra-1)  
  
 
 
@@ -37,6 +40,8 @@ topics to review
   
 ###APIs
   *[GITHUB (Net::HTTP)](https://github.com/sf-coyotes-2016/github-api-challenge)
+  *[TWITTER (Net::HTTP)](https://github.com/sf-coyotes-2016/recent-tweets-command-line-challenge)
+  *[TWITTER (net:HTTP)](https://github.com/sf-coyotes-2016/tweet-now-command-line-challenge)
   *postman 
     * HOW TO SETUP 
     * HOW TO SEND AUTHENTICATE
