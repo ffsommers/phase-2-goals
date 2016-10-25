@@ -1,7 +1,14 @@
-## phase-2-goals
-topics to focus on in phase 2 
-####CRUD
- -stuff
+# phase-2-goals
+topics to review 
+##CRUD
+ -BASIC REST
+ -CREATE ROUTE
+ -READ ROUTE
+ -UPDATE ROUTE
+ -DELETE ROUTE
+  ###challenges
+   - A [link](http://example.com "Title"). 
+
 ####REST
  -stuff
 ####OOJS
@@ -11,7 +18,10 @@ topics to focus on in phase 2
 ####PARTIALS
  -stuff
 ####JQUERY
- -stuff
+ -event listeners
+ -event delegation
+ -animations 
+ -
 ####AJAX
  -stuff
 ####APIs
