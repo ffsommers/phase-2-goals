@@ -6,9 +6,11 @@ topics to review
   * READ ROUTE
   * UPDATE ROUTE
   * DELETE ROUTE
-  ###challenges
-   * A [link](http://example.com "Title"). 
+ 
 
+
+####AR ASSOCIATIONS
+  [BASIC ASSOCIATION - HOTELS](https://github.com/sf-coyotes-2016/active-record-associations-drill-hotels-challenge).
 ####REST
  -stuff
 ####OOJS
@@ -24,8 +26,9 @@ topics to review
  -
 ####AJAX
  -stuff
+
+
 ####APIs
  - postman 
  -curl 
  - gems 
- 
