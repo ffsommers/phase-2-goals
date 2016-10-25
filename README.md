@@ -1,19 +1,16 @@
 # phase-2-goals
 topics to review 
 ### CRUD
-#### CREATE ROUTE
+
   * [BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
-  *
-#### READ ROUTE
- 
-#### UPDATE ROUTE
+  * [POST ROUTES VIA FORM AND READ FROM DB - ANAGRAMS] (https://github.com/sf-coyotes-2016/anagram-server-1-the-basics-challenge)
+  *[SHORT URLS UPDATE ROUTE](https://github.com/sf-coyotes-2016/anagram-server-1-the-basics-challenge)
 
-#### DELETE ROUTE
-
-### EXTRA RESOURCES
-  * [Intro to Sinatra Video](https://identity.devbootcamp.com/login?service=https%3A%2F%2Ftalks.devbootcamp.com%2Fintro-to-sinatra-1)  
- 
-
+#### EXTRA RESOURCES
+  * [Intro to Sinatra Video](https://identity.devbootcamp.com/login?service=https%3A%2F%2Ftalks.devbootcamp.com%2Fintro-to-sinatra-1)
+  * [Singing With Sinatra, Parts 1-3](https://code.tutsplus.com/tutorials/singing-with-sinatra--net-18965)
+  * [githun tutorial on sinatra](https://github.com/sinatra/sinatra)
+  
 
 ###AR ASSOCIATIONS
   * [BASIC ASSOCIATION - HOTELS](https://github.com/sf-coyotes-2016/active-record-associations-drill-hotels-challenge).
