@@ -1,11 +1,11 @@
 # phase-2-goals
 topics to review 
 ##CRUD
- *BASIC REST
- *CREATE ROUTE
- *READ ROUTE
- *UPDATE ROUTE
- *DELETE ROUTE
+  *BASIC REST
+  *CREATE ROUTE
+  *READ ROUTE
+  *UPDATE ROUTE
+  *DELETE ROUTE
   ###challenges
    * A [link](http://example.com "Title"). 
 
