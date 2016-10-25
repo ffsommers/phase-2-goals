@@ -1,14 +1,14 @@
 # phase-2-goals
 topics to review 
 ###CRUD
- *CREATE ROUTE
- [BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
+####CREATE ROUTE
+[BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
 
-*READ ROUTE
+####READ ROUTE
  
-* UPDATE ROUTE
+####UPDATE ROUTE
 
-* DELETE ROUTE
+####DELETE ROUTE
  
 
 
