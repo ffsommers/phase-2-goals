@@ -1,5 +1,11 @@
 # phase-2-goals
 topics to review 
+## WED GOALS ##
+  * postman breakout 
+   -setup with api and authentication
+   - how to make same requests via net:http or httpparty
+   
+
 ### CRUD ###
 
   * [BASIC POST ROUTE PASSING PARAMS VIA URL FROM FORM](https://github.com/sf-coyotes-2016/cheering-mascot-sinatra-1-synchronous-forms-challenge)
